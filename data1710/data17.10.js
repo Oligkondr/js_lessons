@@ -76,7 +76,7 @@ const removeDigit = (num) => {
     let ans;
 
     if (num < 100 || num > 999) {
-        return 'Value Error'
+        return 'Value Error';
 
     }
 
