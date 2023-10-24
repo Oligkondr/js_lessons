@@ -7,7 +7,7 @@ const isSquare = (n1, n2) => n1 === n2 ** 2;
 
 // Задание 3
 const minimumNumber = (n1, n2, n3) => {
-    return Math.min(n1, n2, n3)
+    return Math.min(n1, n2, n3);
 }
 
 
