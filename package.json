@@ -2,7 +2,7 @@
   "name": "lessons",
   "version": "1.0.0",
   "description": "",
-  "main": "data16.10.js",
+  "main": "date1610/data16.10.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
